@@ -1,1 +1,15 @@
+# macOS system file
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+encrypty-main/venv/
+
+# Environment & build
+.env
+*.log
+*.egg-info/
